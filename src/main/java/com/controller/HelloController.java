@@ -6,4 +6,7 @@ public class HelloController extends HttpServlet {
 	public void test(){
 		System.out.println();
 	}
+	public void test1(){
+		System.out.println();
+	}
 }
